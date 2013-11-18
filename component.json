@@ -1,0 +1,12 @@
+{
+  "name": "children",
+  "version": "0.0.1",
+  "description": "get the children of elements",
+  "keywords": ["dom", "children"],
+  "homepage": "https://github.com/ramitos/children",
+  "license": "MIT",
+  "author": "Sérgio Ramos <mail@sergioramos.me> (http://sergioramos.me)",
+  "twitter": "@ramitos",
+  "main": "src/children.js",
+  "scripts": ["src/children.js"]
+}
