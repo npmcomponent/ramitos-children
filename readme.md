@@ -1,5 +1,7 @@
 # children
 
+inspired by jQuery
+
 ## install
 
 ```bash
@@ -11,13 +13,13 @@ component install ramitos/children
 ```js
 var children = require('children')
 
-var anchors = children(document.body, 'a.myclass')
+var anchors = children(document.body, 'a')
 
 var hrefs = anchors.map(function (anchor) {
   return anchor.href
 })
 
-var all_the_els = children(document.body)
+var body_childrens = children(document.body)
 ```
 
 ## license

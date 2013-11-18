@@ -8,5 +8,8 @@
   "author": "Sérgio Ramos <mail@sergioramos.me> (http://sergioramos.me)",
   "twitter": "@ramitos",
   "main": "src/children.js",
-  "scripts": ["src/children.js"]
+  "scripts": ["src/children.js"],
+  "dependencies": {
+    "component/matches-selector": "*"
+  }
 }
