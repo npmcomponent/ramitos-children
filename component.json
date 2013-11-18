@@ -2,6 +2,7 @@
   "name": "children",
   "version": "0.0.1",
   "description": "get the children of elements",
+  "repo": "ramitos/children",
   "keywords": ["dom", "children"],
   "homepage": "https://github.com/ramitos/children",
   "license": "MIT",
