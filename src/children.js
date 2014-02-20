@@ -1,4 +1,4 @@
-var matches = require('matches-selector')
+var matches = require('component-matches-selector')
 
 // same code as jquery with just the adition of selector matching
 module.exports = function (el, selector) {

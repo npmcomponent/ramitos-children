@@ -1,0 +1,14 @@
+{
+  "name": "ramitos-children",
+  "description": "get the children of elements",
+  "version": "0.0.1",
+  "keywords": [
+    "dom",
+    "children"
+  ],
+  "main": "src/children.js",
+  "dependencies": {
+    "component-matches-selector": "git://github.com/npmcomponent/component-matches-selector.git"
+  },
+  "license": "MIT"
+}
